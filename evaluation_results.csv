@@ -1,0 +1,16 @@
+model,metric,value
+Content-Based,RMSE,0.6337002356563505
+Content-Based,MAE,0.49464198119995956
+Content-Based,Precision,0.46236559139784944
+Content-Based,Recall,0.4479166666666667
+Content-Based,F1-score,0.455026455026455
+Collaborative,RMSE,0.5355568517335103
+Collaborative,MAE,0.4248814627172793
+Collaborative,Precision,0.5
+Collaborative,Recall,0.375
+Collaborative,F1-score,0.42857142857142855
+Hybrid,RMSE,0.5422486594376031
+Hybrid,MAE,0.43102367113463413
+Hybrid,Precision,0.46987951807228917
+Hybrid,Recall,0.40625
+Hybrid,F1-score,0.43575418994413406
